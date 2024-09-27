@@ -14,3 +14,4 @@ configuraciones basicas para trabajar con el framework de Django
 - 11 crear el proyecto --> django-admin startproject web_project .
 - 12 realizar migracion a proyecto --> python manage.py migrate
 - 13 ejecutar servidor --> python manage.py runserver
+- me trabajo el proyecto http://127.0.0.1:8000/
